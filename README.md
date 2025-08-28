@@ -25,15 +25,6 @@
 
 <br><br>
 
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/VISITORS%20COUNT-000000?style=for-the-badge&logoColor=black" />
-  </p>
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Devluisgsouza}/count.svg" />
-  </p> 
-  <br>
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F01F5&height=120&section=footer"/>
