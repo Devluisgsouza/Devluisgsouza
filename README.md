@@ -4,7 +4,7 @@
   <h1>Biografia 🇧🇷</h1>
 </div>
 
-<div align="center" vocab="http://schema.org/" typeof="Person">
+<div vocab="http://schema.org/" typeof="Person">
   <p property="description">
     <strong property="name">Luis Guilherme de Souza</strong> é <strong>Desenvolvedor de Software</strong>  
     especializado em <strong>análise de dados e desenvolvimento front-end</strong>. 
@@ -12,7 +12,7 @@
     Possui experiência com <strong>JavaScript, TypeScript, HTML, CSS e Python</strong>. 
     Formado pela Universidade Paulista em <strong>Análise e Desenvolvimento de Sistemas</strong>, atualiza seu GitHub recorrentemente compartilhando seus estudos e projetos.
   </p>
-  <p propety="description"><strong>Atualmente busca uma oportunidade profissional.</strong></p>
+  <p align="center" propety="description"><strong>Atualmente busca uma oportunidade profissional.</strong></p>
 </div>
 
 <br><br>
