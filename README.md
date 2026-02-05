@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F01F5&height=120&section=header"/>
 
 <div align="center">
-  <h1>Biografia 🇧🇷</h1>
+  <h1>Biografia</h1>
 </div>
 
 <div vocab="http://schema.org/" typeof="Person">
@@ -12,7 +12,7 @@
     Possui experiência com <strong>JavaScript, TypeScript, HTML, CSS e Python</strong>. 
     Formado pela Universidade Paulista em <strong>Análise e Desenvolvimento de Sistemas</strong>, atualiza seu GitHub recorrentemente compartilhando seus estudos e projetos.
   </p>
-  <p align="center" propety="description"><strong>Atualmente busca uma oportunidade profissional.</strong></p>
+  <p align="center" property="description"><strong>Atualmente busca uma oportunidade profissional.</strong></p>
 </div>
 
 <br><br>
@@ -22,13 +22,12 @@
 
 <br><br>
 
-<div align="center">
-  <a href="https://github.com/duhoshina">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devluisgsouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devluisgsouza&layout=compact&cache_seconds=1800" />
+</p>
 
-<be><br>
-<be><br>
+<br><br>
+<br><br>
 
 <div align="center">
   <p>
