@@ -20,11 +20,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devluisgsouza&bg_color=000000&color=6F01F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br><br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devluisgsouza&layout=compact&cache_seconds=1800" />
-</p>
 
 <br><br>
 <br><br>
