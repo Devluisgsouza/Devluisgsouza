@@ -1,7 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Luis%20Guilherme%20de%20Souza&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=55"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&lines=Luis+Guilherme+de+Souza"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=400&color=000000&center=true&vCenter=true&width=500&lines=Luis+Guilherme+de+Souza"/>
+  </picture>
 </div>
-<br/>
 
 ## 👋 Sobre mim
 ```typescript
@@ -20,9 +22,7 @@ const luis = {
   goal: "Criar interfaces que unam design e performance",
 };
 ```
-
 <br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-guilherme-de-souza-7b5a75318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,19 +34,17 @@ const luis = {
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
 <br/>
 
 ## 🚀 Tecnologias & Ferramentas
 <br/>
 <div align="center">
-  
+
   ### 💻 Linguagens / Frameworks / Libs / Ferramentas
   <br/>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,git,github,vscode,figma&theme=dark" height="45"/>
   <br/>
 </div>
-
 <br/>
 
 ## 📊 Estatísticas GitHub
@@ -54,7 +52,6 @@ const luis = {
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Devluisgsouza&theme=tokyonight&hide_border=true&background=0D1117&stroke=6F01F5&ring=07e9a5&fire=6F01F5&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=07e9a5&sideNums=6F01F5&dates=888888" height="180em"/>
 </div>
-
 <br/>
 
 ## 🌐 Atividade de Contribuições
@@ -91,5 +88,3 @@ const luis = {
 </a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
