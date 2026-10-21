@@ -54,27 +54,6 @@ const luis = {
 </div>
 <br/>
 
-## 🌐 Atividade de Contribuições
-<br/>
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devluisgsouza&bg_color=0D1117&color=6F01F5&line=07e9a5&point=6F01F5&area=true&hide_border=true&area_color=6F01F510)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-<br/>
-
-## 🎯 Foco Atual
-<br/>
-<div align="center">
-
-| 🔭 Trabalhando em | 🌱 Aprendendo | 💼 Buscando |
-|:---:|:---:|:---:|
-| Projetos React pessoais | Padrões avançados de React | Oportunidade profissional |
-| Análise de dados com Python | Visualização de dados | Equipe colaborativa |
-
-</div>
-<br/>
-
 <div align="center">
 
 ### 💬 *"A IA não veio para tirar seu emprego, e sim para te ajudar a alcançar lugares mais altos...!"*
